@@ -3,7 +3,7 @@
 This is a sushi restaurant landing page I built to practice the fundamentals of HTML and CSS. I followed a tutorial by JavaScript Mastery to get the core structure and styling down,
 but I spent some extra time customizing the design to make it my own
 
-## What CHanges Were Made
+## What Changes Were Made
 - Customized the Theme: I replaced the original tutorial colors with a custom "Matcha & Cream" palette to give it a fresher look
 - Fixed Bugs: Resolved visibility issues with the logo overlay by implementing `z-index` and `position` fixes in CSS
 - Workflow: Learned how to use Vite for local development and Git/GitHub for version control and pushing updates
